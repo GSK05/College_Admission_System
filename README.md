@@ -57,13 +57,13 @@ The system eliminates manual manipulation, improves transparency, and provides r
 ---
 
 ## 📂 Repository Structure
--/contracts
--Admission.sol
--/frontend
--react-based UI
--/scripts
--hardhat deployment scripts
--/README.md
+- /contracts
+- Admission.sol
+- /frontend
+- react-based UI
+- /scripts
+- hardhat deployment scripts
+- /README.md
 
 
 ---
